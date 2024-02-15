@@ -4,9 +4,9 @@ This project is a real-time chat application built using React for the frontend 
 
 ## Video Demo
 
+
 https://github.com/Raiyan03/Realtime_Chat/assets/87060977/f4ad32a0-8789-4768-b777-458079cca7ba
 
-Place Holder
 
 ## Getting Started
 
