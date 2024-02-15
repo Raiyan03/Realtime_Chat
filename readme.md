@@ -21,6 +21,12 @@ Before you begin, ensure you have the following installed:
 
 ### Installation
 
+Clone the repository to you local machine using Git:
+
+```Bash
+git clone https://github.com/Raiyan03/Realtime_Chat.git
+```
+
 Backend Setup
 
 1. Navigate to the backend directory of the project.
